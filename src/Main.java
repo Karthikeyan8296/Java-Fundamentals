@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class Main {
     public static void main(String[] args) {
 
@@ -22,5 +24,13 @@ public class Main {
 
         //Switch statement
         Generals.Switch();
+
+        //Looping statement
+        //Looping_Statement.WhileLoop();
+        //Looping_Statement.ForLooping();
+        //Looping_Statement.NestedLoops();
+
+        Generals.Array();
+        Generals.Array2D();
     }
 }
